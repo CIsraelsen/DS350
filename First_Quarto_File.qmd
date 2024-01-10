@@ -1,0 +1,82 @@
+---
+title: "First_Quarto_File"
+format: html
+editor: visual
+execute: 
+  keep-md: true
+---
+
+## Articles
+
+### Article #1: Nuclear Weapons
+
+Authors: Max Roser, Bastian Herre, and Joe Hasell
+
+url: <https://ourworldindata.org/nuclear-weapons>
+
+The article in the link above is about the distress and landscape of nuclear weapons and nuclear warheads over time and for different countries. It also mentions the development of different nuclear wardheads for the countries that use them. 
+
+Good or Unique aspects of the visuals:
+
+1. The visuals are interactive so when you hover your mouse over different parts of it, it shows more information about that aspect of the visual
+
+2. Scales of each graph are accurate and fit the data of the graphs well
+
+3. You can change each graph to be either a table or a graph to view the data differently for each one
+
+Issues with the visuals:
+
+1. the line graph is not a great type of graph well suited for the data because there are some countries you can't see the data for on the graph
+
+2. the first stacked column chart on the page is a bad fit for the data because without hovering over the chart it si very difficult to tell the difference between some of the stacked columns and notice the number difference
+
+
+### Article #2: Your New Iphone is Late
+
+Authors: Team Recurrency
+
+url: <https://priceonomics.com/your-new-iphone-is-late/>
+
+This article discusses the manufacturing of Iphones and how different parts of the iphone are made and shipped from different areas of the world. The aretical mentioned that production had slowed down because there was a 7 day shut down for the biggest port cities in China, Shenzhen and Shanghai so the parts could not be shipped or delivered. 
+
+Good or Unique aspects of the visuals:
+
+1. Very accurate representation of the cities in the world where the parts are manufactured and shipped from
+
+2. each part is specifically listed to manufacture the iphone
+
+3. Very simple representation of the iphone manufacturing and shipping process
+
+Issues with the visuals:
+
+1. there was only one visual to demonstrate the iphone parts; i think there should have at least been another visual to show the data about the change in manufacturing and shipping due to the ports closed down
+
+2. the map part of the visual is good and the pinpoints are good too, but the lines underneath the parts going to the boxes underneath and the boxes themselves I think are too much and don't need to be there to visually illustrate the data
+
+
+### Article #3: The Pandemic Plastic Waste Disaster
+
+Authors: Team Recurrency
+
+url: <https://priceonomics.com/the-pandemic-plastic-waste-disaster/>
+
+This article discusses the environmental impact of the usage and disposal of plastic during the COVID-19 pandemic. It stated that since everyone was at home more during the pandemic the plastic usage rose by a lot. The plastic usage rose by 30% which became a problem because recycling plants closed due to the pandemic so most of the plastic had to go to landfills instead causing an bad environmental impact.
+
+Good or Unique aspects of the visuals:
+
+1. each visual summarized all main points made in the article
+
+2. color scheme followed for all visuals used
+
+3. visuals used a mix of percentage statistics and whole number statistics to add variety
+
+Issues with the visuals:
+
+1. most of the visuals used were charts which aren't always the best one to use to represent data because it's just numbers, it doesn't visually show a change about the data
+
+2. the only graphical visual was very bland; it didn't have any scales on the axis which makes it hard to compare the data and see the difference
+
+```{r}
+plot(1:20)
+```
+
